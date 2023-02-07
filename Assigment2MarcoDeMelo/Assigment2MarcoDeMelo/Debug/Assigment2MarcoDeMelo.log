@@ -1,0 +1,4 @@
+﻿ClientCode.obj : error LNK2019: unresolved external symbol "public: __thiscall Product::Product(void)" (??0Product@@QAE@XZ) referenced in function _main
+ClientCode.obj : error LNK2019: unresolved external symbol "public: __thiscall PrePackedFood::PrePackedFood(void)" (??0PrePackedFood@@QAE@XZ) referenced in function _main
+ClientCode.obj : error LNK2019: unresolved external symbol "public: __thiscall FreshFood::FreshFood(void)" (??0FreshFood@@QAE@XZ) referenced in function _main
+C:\Users\16476\Desktop\Sc\Semester 3\Comp333\Assigment2MarcoDeMelo\Debug\Assigment2MarcoDeMelo.exe : fatal error LNK1120: 3 unresolved externals
